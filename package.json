@@ -27,6 +27,9 @@
     "q": "1.4.1",
     "rx": "4.1.0"
   },
+  "peerDependencies": {
+    "fh-mbaas-api": "7.0.0-3"
+  },
   "devDependencies": {
     "angular": "1.5.3",
     "angular-mocks": "1.5.3",
@@ -37,7 +40,6 @@
     "cors": "2.7.1",
     "dotenv": "2.0.0",
     "express": "4.13.4",
-    "fh-mbaas-api": "6.1.6",
     "grunt": "1.0.1",
     "grunt-cli": "1.2.0",
     "grunt-eslint": "18.0.0",
