@@ -28,7 +28,7 @@
     "rx": "4.1.0"
   },
   "peerDependencies": {
-    "fh-mbaas-api": "7.0.0-3"
+    "fh-mbaas-api": "^7.0.0"
   },
   "devDependencies": {
     "angular": "1.5.3",
